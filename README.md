@@ -27,14 +27,19 @@ A Python application that allows you to control a slide presentation and draw on
 1.  **Export Your Slides:** Export your PowerPoint presentation as a folder of JPEG images.
 2.  **Move Folder:** Place this folder (e.g., `PresentationSlides`) inside the project directory.
 3.  **Update Code:** Make sure the `PRESENTATION_FOLDER` variable in `virtual_presenter.py` matches your folder's name.
-4.  **Clone Repository:**
-5.  ```bash
-6.  git clone https://github.com/KARTIKRATHOD2005/Presentation-controller-using-hand-gestures.git
-7.  **Install Dependencies:**
+4.  **Install Dependencies:**
     ```bash
     pip install opencv-python mediapipe numpy
     ```
-8.  **Run the Script:**
+5.  **Clone Repository:**
+    ```bash
+    git clone https://github.com/KARTIKRATHOD2005/Presentation-controller-using-hand-gestures.git
+    ```
+6.  **Navigate to the project directory:**
+    ```bash
+    Presentation-controller-using-hand-gestures
+    ```
+7.  **Run the Script:**
     ```bash
     python virtual_presenter.py
   
